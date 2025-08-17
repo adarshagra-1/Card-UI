@@ -21,4 +21,13 @@ The card includes an image, action buttons, descriptive text, and an "Okay" butt
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/card-ui.git
+   git clone https://github.com/adarshagra-1/Card-ui.git
+2. Navigate to the project folder:
+   ```bash
+   cd card-ui
+3. Open the index.html file in your browser.
+
+## Future Enhancements
+- Add multiple cards in a grid layout
+- Add animations on button clicks
+- Make it fully mobile-friendly with media queries
