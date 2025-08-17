@@ -31,3 +31,6 @@ The card includes an image, action buttons, descriptive text, and an "Okay" butt
 - Add multiple cards in a grid layout
 - Add animations on button clicks
 - Make it fully mobile-friendly with media queries
+
+## Author
+Adarsh Agrahari.
